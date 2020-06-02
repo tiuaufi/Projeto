@@ -9,15 +9,15 @@ O mais importante de tudo, diverta-se e aprenda mais com esse teste! :D
  1. Usar exclusivamente linguagens PHP e/ou Javascript.
  2. Ter conexão com banco de dados PostgresSQL ou MySQL.
  3. Criar CRUD de usuário
-	3.1. Ter tela de cadastro de um novo usuário
+	* Ter tela de cadastro de um novo usuário
 	
-		3.1.1. Usuário composto de nome, e-mail e senha
-        3.1.2. Salvar a senha criptografada no banco de dados
-    3.2. Ter tela de edição de qualquer um dos registros de um usuário especifico
-    3.3. Exibir tela de listagem de todos os usuários cadastrados
-    3.4. Existir forma de excluir um usuário
+		* Usuário composto de nome, e-mail e senha
+        * Salvar a senha criptografada no banco de dados
+    * Ter tela de edição de qualquer um dos registros de um usuário especifico
+    * Exibir tela de listagem de todos os usuários cadastrados
+    * Existir forma de excluir um usuário
 4. Tela inicial deve ser a de autenticação com um dos usuários cadastrados
-	4.1. Sistema não pode permitir ter acesso a outras páginas se não autenticar
+	* Sistema não pode permitir ter acesso a outras páginas se não autenticar
 5. Hospedar código fonte em algum repositório publico para podermos ter acesso
 
 ## Permitido:
