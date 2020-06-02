@@ -7,7 +7,7 @@ O mais importante de tudo, diverta-se e aprenda mais com esse teste! :D
 # Projeto:
 
  1. Usar exclusivamente linguagens PHP e/ou Javascript.
- 2. Ter conexão com banco de dados PostgresSQL ou MySQL.
+ 2. Ter conexão com banco de dados PostgreSQL ou MySQL.
  3. Criar CRUD de usuário
 	* Ter tela de cadastro de um novo usuário
 	
